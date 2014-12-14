@@ -73,12 +73,12 @@ cp ~/Downloads/autotbl.fmt ~/.config/libreoffice/4/user/config
 #### Install on Windows 7
 
 1. Download the [autotbl.fmt](https://github.com/akbarahmed/libreoffice-writer-template/raw/master/autotbl.fmt) file to your `Downloads` folder.
-2. Open Windows Explorer and navigate to `C:/<user name>/AppData/Roaming/LibreOffice/4/user/config`.
+2. Open Windows Explorer and navigate to `C:/Users/<user name>/AppData/Roaming/LibreOffice/4/user/config`.
 3. Make a copy of `autotbl.fmt`.
 4. Copy the new `autotbl.fmt` file that you downloaded from the `Downloads` 
    folder to the LibreOffice `config` folder:
 
-`C:/<user name>/AppData/Roaming/LibreOffice/4/user/config`.
+`C:/Users/<user name>/AppData/Roaming/LibreOffice/4/user/config`.
 
 
 ## Getting started
