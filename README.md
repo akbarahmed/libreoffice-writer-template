@@ -31,16 +31,16 @@ Setting up the template file involves the same steps on Mac, Linux and Windows.
 
 1. Download the [Tech Docs Template.ott](https://github.com/akbarahmed/libreoffice-writer-template/raw/master/Tech%20Docs%20Template.ott) file to 
    your `Downloads` folder. 
-3. Select `File`, click `Open`.
-4. Navigate to your `Downloads` folder, select the `Tech Docs Template.ott` 
-   file, and click `Open`.
-5. Select `File`, select `Templates`, click `Save As Template...`.
-6. In the **Template Manager** dialog box: 
+3. Navigate to your `Downloads` folder, then double-click  the 
+   `Tech Docs Template.ott` file to open it in Writer.
+4. Select `File`, select `Templates`, click `Save As Template...`. If you're
+   using LibreOffice 4.0, then Select `File`, click `Save As Template...`.
+5. In the **Template Manager** dialog box: 
     - Double-click `My Templates`.
     - Click `Save`.
     - Enter a template name of `Tech Docs Template` (or some other name that 
       you'd like to use for this template).
-    - Click `OK`.
+    - Click `OK`. If you're using LibreOffice 4.0, then click `Accept`.
 
 ### Table AutoFormat file
 
