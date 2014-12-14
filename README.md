@@ -29,9 +29,8 @@ styles file to the LibreOffice `config` directory.
 
 Setting up the template file involves the same steps on Mac, Linux and Windows.
 
-1. Download the [Tech Docs Template.ott](./Tech Docs Template.ott) file to 
-   your `Downloads` folder.
-2. Open LibreOffice Writer.
+1. Download the [Tech Docs Template.ott](https://github.com/akbarahmed/libreoffice-writer-template/raw/master/Tech%20Docs%20Template.ott) file to 
+   your `Downloads` folder. 
 3. Select `File`, click `Open`.
 4. Navigate to your `Downloads` folder, select the `Tech Docs Template.ott` 
    file, and click `Open`.
@@ -49,7 +48,7 @@ Setting up the template file involves the same steps on Mac, Linux and Windows.
 
 #### Install on Mac
 
-1. Download the [autotbl.fmt](./autotbl.fmt) file to your `Downloads` folder.
+1. Download the [autotbl.fmt](https://github.com/akbarahmed/libreoffice-writer-template/raw/master/autotbl.fmt) file to your `Downloads` folder.
 2. Open a terminal an run the following commands:
 
 ```bash
