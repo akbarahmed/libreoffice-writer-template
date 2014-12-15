@@ -19,6 +19,14 @@ Tested on:
 - Ubuntu Linux 14.04, Mac OSX 10.10 (Yosemite), Windows 7
 
 
+## Example file
+
+View [Example file.pdf](https://github.com/akbarahmed/libreoffice-writer-template/raw/master/Example%20file.pdf)
+to see the template's theme.
+
+> The example file has a large amount of formatting on a single page, so it's a lot
+> more colorful than an actual documentation file contains (which as more black).
+
 ## Installation
 
 Installing the template involves downloading the `.ott` file then saving the
