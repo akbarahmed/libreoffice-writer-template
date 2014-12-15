@@ -33,14 +33,13 @@ Setting up the template file involves the same steps on Mac, Linux and Windows.
    your `Downloads` folder. 
 3. Navigate to your `Downloads` folder, then double-click  the 
    `Tech Docs Template.ott` file to open it in Writer.
-4. Select `File`, select `Templates`, click `Save As Template...`. If you're
-   using LibreOffice 4.0, then Select `File`, click `Save As Template...`.
+4. Select `File`, select `Templates`, click `Save As Template...`.
 5. In the **Template Manager** dialog box: 
     - Double-click `My Templates`.
     - Click `Save`.
     - Enter a template name of `Tech Docs Template` (or some other name that 
       you'd like to use for this template).
-    - Click `OK`. If you're using LibreOffice 4.0, then click `Accept`.
+    - Click `OK`.
 
 ### Table AutoFormat file
 
@@ -71,6 +70,8 @@ cp ~/Downloads/autotbl.fmt ~/.config/libreoffice/4/user/config
 ```
 
 #### Install on Windows 7
+
+> Note: I'm unable to get the table AutoFormat file to work on Windows.
 
 1. Download the [autotbl.fmt](https://github.com/akbarahmed/libreoffice-writer-template/raw/master/autotbl.fmt) file to your `Downloads` folder.
 2. Open Windows Explorer and navigate to `C:/Users/<user name>/AppData/Roaming/LibreOffice/4/user/config`.
